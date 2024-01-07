@@ -11,7 +11,7 @@ export default function NotFound() {
         href="/dashboard/invoices"
         className="mt-4 rounded-md bg-blue-500 px-4 py-2 text-sm text-white transition-colors hover:bg-blue-400"
       >
-        Go Back
+        Go Back to home. 
       </Link>
     </main>
   );
